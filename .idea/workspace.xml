@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3943c20-f3a0-411b-b90f-b9caa618cdc2" name="Changes" comment="#Initial commit">
-      <change afterPath="$PROJECT_DIR$/PYTHON/Lab005 Loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Lab004 7th Jun24[Data Types].py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Lab005 Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Lab005 Loops.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab003 5th Jun24[Python Basics].executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004 7th Jun24[Data Types].executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005 Loops.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab003 5th Jun24[Python Basics].executor": "Run",
+    "Python.Lab004 7th Jun24[Data Types].executor": "Run",
+    "Python.Lab005 Loops.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.Lab005 Loops">
     <configuration name="Lab003 5th Jun24[Python Basics]" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xNS" />
@@ -146,7 +145,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717669613288</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#Initial commit">
+      <option name="closed" value="true" />
+      <created>1718199889410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718199889410</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#Initial commit">
+      <option name="closed" value="true" />
+      <created>1718199966242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718199966242</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,13 +173,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/PYTHON/Lab005 Loops.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
+          <line>2</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/PYTHON/Lab005 Loops.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="2" />
+          <line>3</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

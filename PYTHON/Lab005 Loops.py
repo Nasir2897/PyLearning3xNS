@@ -1,6 +1,12 @@
 # Learning Debugging
 
-for i in range(10):
+# for i in reversed(range(10)):
+#     print(i)
+
+List = [1,5,6,8,9,6,5,4]
+
+for i in reversed(List):
     print(i)
 
-hgigi
+for i in reversed(range(111,121)):
+    print(i)
